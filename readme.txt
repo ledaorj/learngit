@@ -8,3 +8,4 @@ git learn on windows 7.
 git is good.
 
 git has remote dev.
+git conflict ubuntu.
